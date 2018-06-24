@@ -31,5 +31,5 @@ hs_err_pid*
 **/._.DS_Store
 **/.DS_Store
 
-.project
-.settings
+**/.project
+**/.settings
